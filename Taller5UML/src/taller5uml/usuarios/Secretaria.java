@@ -6,7 +6,7 @@ import taller5uml.CitayMedicamento.Cita;
 
 public class Secretaria extends Persona {
     
-    public Cita cita;
+    protected Cita cita;
     
     
     public void verificiarCita(){

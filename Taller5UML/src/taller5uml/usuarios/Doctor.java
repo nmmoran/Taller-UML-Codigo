@@ -12,9 +12,12 @@ public class Doctor extends Persona {
     
     protected Secretaria secretaria;
     
-    public ArrayList<Receta> recetas = new ArrayList<>();
+    protected ArrayList<Receta> recetas = new ArrayList<>();
     
     protected ArrayList<Cita> citasPendientes = new ArrayList<>();
+    
+    public Doctor(){
+    }
     
     public void recetar(){
     }
