@@ -5,3 +5,7 @@ Caso de uso Solicitar Cita
 
 Caso de uso Atender a paciente
 ![image](https://user-images.githubusercontent.com/92494094/141391854-ad0cac18-d45e-4275-a1cc-c6da624f4e78.png)
+
+
+Imagenes en pdf: 
+[TallerUML1.pdf](https://github.com/nmmoran/Taller-UML-Codigo/files/7524190/TallerUML1.pdf)
